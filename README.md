@@ -7,7 +7,9 @@
   <br>
   <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,cpp,c,python" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nextjs,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,java" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 ## 📊 **My Github Stats**
