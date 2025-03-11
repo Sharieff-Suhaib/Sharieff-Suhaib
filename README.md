@@ -1,6 +1,6 @@
 # Hi there 👋
 <br/>
-## 📌 My Technical Skillset
+##  📌 My Technical Skillset
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   <br>
