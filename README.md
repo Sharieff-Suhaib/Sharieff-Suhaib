@@ -3,13 +3,11 @@
 
 ## 📌 **My Technical Skillset**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   <br>
-  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,shadcnui,nativewind,reactnative" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,cpp,c,python" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,python,java" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=cpp,c" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nextjs,java" />
 </p>
 
 ## 📊 **My Github Stats**
