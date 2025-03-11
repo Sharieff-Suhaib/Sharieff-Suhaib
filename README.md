@@ -1,6 +1,6 @@
-Hi there 👋
+# Hi there 👋
 <br/>
-📌 My Technical Skillset
+## 📌 My Technical Skillset
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
   <br>
@@ -9,12 +9,12 @@ Hi there 👋
   <img src="https://skillicons.dev/icons?i=cpp,c" />
 </p>
 
-My Github Stats
+## 📊 My Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sharieff-Suhaib&show_icons=true&theme=dark" />
 </p>
 
-🔥 Most Used Languages
+## 🔥 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharieff-Suhaib&layout=compact&theme=dark" />
 </p>
