@@ -25,4 +25,4 @@
 ---
 
 🚀 **Let's connect and build something amazing together!**  
-📫 Reach me at: [Gmail](suhaibsharieff05@gmail.com) , [LinkedIn](www.linkedin.com/in/suhaib-sharieff)
+📫 Reach me at: suhaibsharieff05@gmail.com
