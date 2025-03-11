@@ -3,9 +3,11 @@
 
 ## 📌 **My Technical Skillset**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,python" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss,bootstrap,shadcnui,nativewind,reactnative" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,python,java" />
   <br>
   <img src="https://skillicons.dev/icons?i=cpp,c" />
 </p>
