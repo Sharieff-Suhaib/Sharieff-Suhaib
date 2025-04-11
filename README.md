@@ -9,7 +9,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ejs,linux" />
 </p>
 
 ## 📊 **My Github Stats**
