@@ -1,4 +1,4 @@
-# 🌟 Suhaib Sharieff — Full-Stack Developer
+# 🌟 Suhaib Sharieff 
 
 <div align="center">
 
@@ -13,19 +13,6 @@
 
 </div>
 
----
-
-## 🚀 Who Am I?
-
-I’m a developer who loves building things that **solve real problems**.
-
-- 🌐 I create full-stack applications using **React + Spring Boot**
-- ⚙️ Strong focus on **Java backend engineering**
-- 🧩 Love clean architectures, SOLID principles & scalable design
-- 🤖 Learning deep learning, neural networks & applied ML
-- 🔥 Always experimenting, always shipping
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -65,10 +52,12 @@ I’m a developer who loves building things that **solve real problems**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharieff-Suhaib&theme=radical&show_icons=true&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharieff-Suhaib&layout=compact&theme=radical&hide_border=true" height="165">
+<img src="https://github-readme-stats-steel-psi.vercel.app/api?username=Sharieff-Suhaib&theme=radical&show_icons=true&hide_border=true" height="165">
+
+<img src="https://github-readme-stats-steel-psi.vercel.app/api/top-langs/?username=Sharieff-Suhaib&layout=compact&theme=radical&hide_border=true" height="165">
 
 </div>
+
 
 ---
 
@@ -86,18 +75,6 @@ I’m a developer who loves building things that **solve real problems**.
 
 </div>
 
----
-
-## ✨ What I'm Working On
-
-- Full-stack project using **React + Spring Boot**
-- Improving Java backend architecture patterns
-- Learning CNNs & RNNs for ML projects
-- Writing cleaner, testable, scalable code
-
----
-
-## 🤝 Let's Collaborate
 
 <div align="center">
 
