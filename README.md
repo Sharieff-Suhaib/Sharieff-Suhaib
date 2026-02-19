@@ -1,87 +1,107 @@
+# 🌟 Suhaib Sharieff — Full-Stack Developer
+
 <div align="center">
 
-# Hi, I'm Suhaib Sharieff 👋
+### Crafting Scalable Web Apps • Engineering Reliable Backends • Exploring ML Systems
 
-### Full-Stack Developer · Java & Spring Enthusiast · ML Explorer
+💼 Full-Stack Developer  
+☕ Java & Spring Boot Enthusiast  
+🧠 Machine Learning Explorer  
 
-[![Email](https://img.shields.io/badge/Gmail-suhaibsharieff05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suhaibsharieff05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sharieff--Suhaib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharieff-Suhaib)
+[![Gmail](https://img.shields.io/badge/Email-suhaibsharieff05%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:suhaibsharieff05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sharieff--Suhaib-black?style=for-the-badge&logo=github)](https://github.com/Sharieff-Suhaib)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Who Am I?
 
-- 🔭 Building full-stack web apps with **React**, **Node.js**, and **Spring Boot**
-- 🤖 Exploring **Machine Learning** and data-driven solutions with Python
-- ☕ Deep-diving into **Java** — from Servlets to Spring ecosystem
-- 🌱 Always learning, always shipping
+I’m a developer who loves building things that **solve real problems**.
+
+- 🌐 I create full-stack applications using **React + Spring Boot**
+- ⚙️ Strong focus on **Java backend engineering**
+- 🧩 Love clean architectures, SOLID principles & scalable design
+- 🤖 Learning deep learning, neural networks & applied ML
+- 🔥 Always experimenting, always shipping
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🎨 Frontend
+### 🚧 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
 </p>
 
-### ⚙️ Backend & APIs
+### 🌍 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
 </p>
 
-> Also working with: **Spring Boot** · **Spring MVC** · **Java Servlets**
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
 </p>
 
 ### 🤖 Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 </p>
 
-> Tools & Libraries: **Scikit-learn** · **Pandas** · **NumPy** · **Matplotlib**
-
-### 🖥️ Systems & Tools
+### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharieff-Suhaib&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharieff-Suhaib&layout=compact&theme=dark&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sharieff-Suhaib&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sharieff-Suhaib&theme=radical&show_icons=true&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharieff-Suhaib&layout=compact&theme=radical&hide_border=true" height="165">
 
 </div>
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Streak & Contributions
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharieff-Suhaib&theme=react-dark&hide_border=true)](https://github.com/Sharieff-Suhaib)
+<img src="https://streak-stats.demolab.com?user=Sharieff-Suhaib&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharieff-Suhaib&theme=redical&hide_border=true)](https://github.com/Sharieff-Suhaib)
 
 </div>
 
 ---
 
+## ✨ What I'm Working On
+
+- Full-stack project using **React + Spring Boot**
+- Improving Java backend architecture patterns
+- Learning CNNs & RNNs for ML projects
+- Writing cleaner, testable, scalable code
+
+---
+
+## 🤝 Let's Collaborate
+
 <div align="center">
 
-🚀 **Let's connect and build something amazing together!**
+### 💬 Open to: Projects · Internships · Collaboration · Hackathons  
+📩 *Reach out anytime — let's build something extraordinary.*
 
 </div>
