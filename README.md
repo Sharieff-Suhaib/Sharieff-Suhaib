@@ -50,13 +50,15 @@
 
 ## 📈 GitHub Performance
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sharieff-Suhaib&theme=radical" />
+</p>
 
-<img src="https://neat-stats.vercel.app/api?user=Sharieff-Suhaib&theme=radical" height="165">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sharieff-Suhaib&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sharieff-Suhaib&theme=radical" />
+</p>
 
-<img src="https://neat-stats.vercel.app/api/top-langs?user=Sharieff-Suhaib&theme=radical" height="165">
-
-</div>
 
 ---
 
