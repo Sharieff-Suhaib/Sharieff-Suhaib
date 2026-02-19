@@ -14,38 +14,9 @@
 </div>
 
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### 🚧 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp" />
-</p>
-
-### 🌍 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap" />
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
-</p>
-
-### 🤖 Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,docker" />
-</p>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,react,nextjs,tailwind,html,css,bootstrap,spring,nodejs,express,postgresql,mongodb,mysql,tensorflow,sklearn,git,linux,postman,docker" /> </p>
 ---
 
 ## 📈 GitHub Performance
