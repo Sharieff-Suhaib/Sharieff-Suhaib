@@ -52,12 +52,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-steel-psi.vercel.app/api?username=Sharieff-Suhaib&theme=radical&show_icons=true&hide_border=true" height="165">
+<img src="https://neat-stats.vercel.app/api?user=Sharieff-Suhaib&theme=radical" height="165">
 
-<img src="https://github-readme-stats-steel-psi.vercel.app/api/top-langs/?username=Sharieff-Suhaib&layout=compact&theme=radical&hide_border=true" height="165">
+<img src="https://neat-stats.vercel.app/api/top-langs?user=Sharieff-Suhaib&theme=radical" height="165">
 
 </div>
-
 
 ---
 
